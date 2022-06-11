@@ -1,10 +1,10 @@
 
 <h1 align='center'>
-  Hi there 👋 I'm Bahaa <img src="" />
+  Hi there 👋 I'm Bahaa</span><img src="/bahaa-memoji.webp" width="50" height="50" />
 </h1>
 
 <p align='center'>
-  I'm Bahaa, a Senior Software Engineer from Egypt 🇪🇬 working in Dubai 🇦🇪.
+  I am a Senior Software Engineer from Egypt 🇪🇬 working in Dubai 🇦🇪.
 </p>
 
 
