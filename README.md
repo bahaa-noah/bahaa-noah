@@ -47,10 +47,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <hr>
-<p align='center'>
+
+## stats :dart:
+<p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bahaa-noah&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-
-## stats :dart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahaa-noah&layout=compact&theme=cobalt)](https://github.com/bahaa-noah/github-readme-stats)
+
+
+
