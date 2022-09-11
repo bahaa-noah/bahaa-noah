@@ -52,5 +52,5 @@
 </p>
 
 
-<!-- ## stats :dart:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahaa-noah&layout=compact&theme=cobalt)](https://github.com/bahaa-noah/github-readme-stats) -->
+## stats :dart:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahaa-noah&layout=compact&theme=cobalt)](https://github.com/bahaa-noah/github-readme-stats)
