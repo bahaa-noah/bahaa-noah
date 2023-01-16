@@ -57,12 +57,12 @@
 
 <hr>
 
-## stats :dart:
+<!-- ## stats :dart:
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bahaa-noah&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahaa-noah&layout=compact&theme=cobalt)](https://github.com/bahaa-noah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahaa-noah&layout=compact&theme=cobalt)](https://github.com/bahaa-noah/github-readme-stats) -->
 
 
 
