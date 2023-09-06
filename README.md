@@ -3,10 +3,6 @@
   Hi there 👋 I'm Bahaa</span><img src="/bahaa-memoji.webp" width="50" height="50" />
 </h1>
 
-<p align='center'>
-  I am a Senior Software Engineer from Egypt 🇪🇬 working in Dubai 🇦🇪.
-</p>
-
 
 
 <p align='center'>
