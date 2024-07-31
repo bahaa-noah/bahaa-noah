@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hi there 👋 I'm Bahaa</span><img src="/bahaa-memoji.webp" width="50" height="50" />
+  Hi there 👋 </span><img src="/bahaa-memoji.webp" width="50" height="50" />
 </h1>
 
 
